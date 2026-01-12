@@ -1,6 +1,5 @@
 # 2.studio
 Portfolio
-* {
   padding: 0;
   margin: 0;
   -webkit-box-sizing: border-box;
